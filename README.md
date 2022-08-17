@@ -6,3 +6,6 @@
 2. `npm run start`: 本地運行專案。
 
 備註：建議使用 node v17.9.1 版本。
+
+# 安裝 NodeJs
+https://nodejs.org/es/blog/release/v17.9.1/
